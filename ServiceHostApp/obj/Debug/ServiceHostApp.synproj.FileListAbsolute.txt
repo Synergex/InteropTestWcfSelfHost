@@ -1,0 +1,14 @@
+C:\Dev\SynNetTesting\InteropTestWcfSelfHost\ServiceHostApp\bin\Debug\ServiceHostApp.exe
+C:\Dev\SynNetTesting\InteropTestWcfSelfHost\ServiceHostApp\bin\Debug\ServiceHostApp.pdb
+C:\Dev\SynNetTesting\InteropTestWcfSelfHost\ServiceHostApp\bin\Debug\SynergyWcfService.dll
+C:\Dev\SynNetTesting\InteropTestWcfSelfHost\ServiceHostApp\bin\Debug\SynergyWcfService.pdb
+C:\Dev\SynNetTesting\InteropTestWcfSelfHost\ServiceHostApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SynNetTesting\InteropTestWcfSelfHost\ServiceHostApp\obj\Debug\ServiceHostApp.exe
+C:\Dev\SynNetTesting\InteropTestWcfSelfHost\ServiceHostApp\obj\Debug\ServiceHostApp.pdb
+C:\CodeExchange\SynNet\InteropWcfSelfHost\ServiceHostApp\bin\Debug\ServiceHostApp.exe
+C:\CodeExchange\SynNet\InteropWcfSelfHost\ServiceHostApp\bin\Debug\ServiceHostApp.pdb
+C:\CodeExchange\SynNet\InteropWcfSelfHost\ServiceHostApp\bin\Debug\SynergyWcfService.dll
+C:\CodeExchange\SynNet\InteropWcfSelfHost\ServiceHostApp\bin\Debug\SynergyWcfService.pdb
+C:\CodeExchange\SynNet\InteropWcfSelfHost\ServiceHostApp\obj\Debug\ResolveAssemblyReference.cache
+C:\CodeExchange\SynNet\InteropWcfSelfHost\ServiceHostApp\obj\Debug\ServiceHostApp.exe
+C:\CodeExchange\SynNet\InteropWcfSelfHost\ServiceHostApp\obj\Debug\ServiceHostApp.pdb
